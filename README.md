@@ -4,4 +4,4 @@ Below are the apps I have published to the App Store:
 - **Private App:** [apps.apple.com/us/app/private-app](https://apps.apple.com/us/app/private-app/id6448685241)
 
 Below are some other projects I've built:
-- **GPUflo:** [https://devpost.com/software/gpuflo#submission-history](https://devpost.com/software/gpuflo)
+- **GPUflo:** [https://devpost.com/software/gpuflo](https://devpost.com/software/gpuflo)
