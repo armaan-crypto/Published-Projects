@@ -5,3 +5,4 @@ Below are the apps I have published to the App Store:
 
 Below are some other projects I've built:
 - **GPUflo:** [https://devpost.com/software/gpuflo](https://devpost.com/software/gpuflo)
+- **Quantum-powered Flight Route Optimization:** [https://github.com/armaan-crypto/flight-optimization-qaoa](https://github.com/armaan-crypto/flight-optimization-qaoa)
